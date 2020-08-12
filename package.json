@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "push": "git add . && git commit -m \"updated README.md\" && git push origin master"
+  }
+}
